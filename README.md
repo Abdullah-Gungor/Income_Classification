@@ -13,7 +13,7 @@ The dataset contains demographic and employment-related features such as:
 - Gender
 - Native country
 
-The target variable is **income category** (e.g., <=50K or >50K).
+The target variable is **income category** (<=50K or >50K).
 
 ## Project Workflow
 1. **Data Preprocessing**
@@ -32,7 +32,7 @@ The target variable is **income category** (e.g., <=50K or >50K).
    - Model evaluation using accuracy, precision, recall, and F1-score
 
 4. **Results and Insights**
-   - Best performing model identified
+   - Best performing model identified.(Accuarcy: 83%)
    - Key features influencing income classification
 
 ## Requirements
@@ -43,7 +43,7 @@ pip install -r requirements.txt
 ```
 
 Typical libraries include:
-- Python 3.9+
+- Python 3.10
 - pandas
 - numpy
 - scikit-learn
