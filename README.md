@@ -1,10 +1,10 @@
 # Income_Classification
 Income Classification
-📖 Project Description
+Project Description
 
 This project focuses on predicting individuals’ income levels using machine learning techniques. The goal is to determine whether a person’s income is above or below a certain threshold based on demographic and socio-economic features.
 
-⚙️ Technologies Used
+Technologies Used
 
 Python 3.10
 
@@ -18,13 +18,13 @@ Matplotlib / Seaborn
 
 Scikit-learn
 
-📊 Dataset
+Dataset
 
 The dataset includes information such as age, education, occupation, marital status, and working hours.
 The target variable indicates whether a person’s income is >50K or <=50K.
 
 
-📈 Results
+Results
 
 Data preprocessing steps included handling missing values and encoding categorical variables.
 
