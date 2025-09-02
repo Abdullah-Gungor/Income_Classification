@@ -27,7 +27,7 @@ The target variable is **income category** (<=50K or >50K).
    - Correlation checks
 
 3. **Modeling**
-   - Different machine learning algorithms tested (e.g., Logistic Regression, Decision Trees, Random Forest, etc.)
+   - Different machine learning algorithms tested (Logistic Regression, Decision Trees, Random Forest, etc.)
    - Hyperparameter tuning
    - Model evaluation using accuracy, precision, recall, and F1-score
 
@@ -37,10 +37,6 @@ The target variable is **income category** (<=50K or >50K).
 
 ## Requirements
 To run the notebook, install the dependencies:
-
-```bash
-pip install -r requirements.txt
-```
 
 Typical libraries include:
 - Python 3.10
